@@ -1,7 +1,5 @@
 <h2 align="center">
   A Multi-Modal Framework with Offset-Driven Local Feature Aggregation for 6-DoF Grasp Pose Estimation
-  A Multi-Modal Framework with Offset-Driven Local Feature Aggregation<br>
-  for 6-DoF Grasp Pose Estimation
 </h2>
 
 <p align="center">
