@@ -1,6 +1,6 @@
-<p align="center">
-  <span style="font-size: 28px; font-weight: bold;">A Multi-Modal Framework with Offset-Driven Local Feature Aggregation for 6-DoF Grasp Pose Estimation</span>
-</p>
+<h2 align="center">
+  A Multi-Modal Framework with Offset-Driven Local Feature Aggregation for 6-DoF Grasp Pose Estimation
+</h2>
 <p align="center">
   <a href="https://github.com/huamo555/DOGraspNet"><img src="https://img.shields.io/badge/Project-DOGraspNet-2f80ed.svg" alt="project"></a>
   <img src="https://img.shields.io/badge/IROS-2026-ff6f00.svg" alt="IROS 2026">
