@@ -62,24 +62,6 @@ The repository provides a complete research pipeline for training, testing, visu
   </tr>
 </table>
 
-## Method
-
-DOGraspNet focuses on the local geometry that is most relevant to grasp pose estimation. Instead of treating all scene points uniformly, the model uses offset-driven local feature aggregation to collect informative neighboring structures around grasp candidates and improve the discriminability of local grasp representations.
-
-The overall pipeline contains:
-
-1. **Scene feature extraction** from RGB-D / point cloud observations.
-2. **Offset-driven local feature aggregation** to enhance local grasp-aware geometry.
-3. **Multi-modal feature fusion** for robust grasp quality and pose prediction.
-4. **6-DoF grasp decoding** with optional collision-aware post-processing.
-5. **Benchmark evaluation** on GraspNet-style metrics.
-
-### Framework
-
-<p align="center">
-  <img src="doc/framework.png" width="90%" alt="DOGraspNet framework">
-</p>
-
 ## Installation
 
 ### 1. Clone
