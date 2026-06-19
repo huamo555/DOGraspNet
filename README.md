@@ -137,33 +137,16 @@ Final benchmark numbers will be updated after paper release.
 
 ### GraspNet-1Billion
 
-| Method | Seen AP | Similar AP | Novel AP | APu |
+| Method | Seen AP | Similar AP | Novel AP|
 | --- | ---: | ---: | ---: | ---: |
-| Baseline | TBD | TBD | TBD | TBD |
-| DOGraspNet | TBD | TBD | TBD | TBD |
-
-### Ablation Study
-
-| Setting | Seen AP | Similar AP | Novel AP |
-| --- | ---: | ---: | ---: |
-| w/o offset-driven local feature aggregation | TBD | TBD | TBD |
-| w/o multi-modal fusion | TBD | TBD | TBD |
-| Full DOGraspNet | TBD | TBD | TBD |
+| Baseline | 67.89 / 59.26 | 59.88 / 49.47 | 25.29 / 18.34 |
+| DOGraspNet | 74.13 / 63.79 | 65.10 / 54.11 | 29.40 / 21.93 |
 
 ## Model Zoo
 
 | Model | Dataset | Metric | Checkpoint |
 | --- | --- | --- | --- |
 | DOGraspNet | GraspNet-1Billion | TBD | Coming soon |
-
-## Roadmap
-
-- [ ] Release the paper link.
-- [ ] Release pretrained checkpoints.
-- [ ] Add detailed dataset preparation instructions.
-- [ ] Add final GraspNet-1Billion benchmark results.
-- [ ] Add qualitative visualization examples.
-- [ ] Add project page and demo video.
 
 ## Citation
 
