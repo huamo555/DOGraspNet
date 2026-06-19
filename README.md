@@ -153,7 +153,7 @@ If you find this project useful, please consider citing our paper:
 ```bibtex
 @inproceedings{dograspnet2026,
   title     = {A Multi-Modal Framework with Offset-Driven Local Feature Aggregation for 6-DoF Grasp Pose Estimation},
-  author    = {TODO},
+  author    = {Lichun Wang, Yuming Gao, Huayang Yao, Jiaqi Zheng, Kai Xu, Baoyue Shen, Baocai Yin},
   booktitle = {IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
   year      = {2026}
 }
