@@ -60,14 +60,6 @@ The repository provides a complete research pipeline for training, testing, visu
     <td><b>6-DoF grasp generation</b></td>
     <td>Predicts full spatial grasp poses for cluttered robotic manipulation.</td>
   </tr>
-  <tr>
-    <td><b>Collision-aware evaluation</b></td>
-    <td>Includes scripts for practical post-processing and collision checking.</td>
-  </tr>
-  <tr>
-    <td><b>Visualization tools</b></td>
-    <td>Supports qualitative inspection of predicted grasp poses.</td>
-  </tr>
 </table>
 
 ## Method
