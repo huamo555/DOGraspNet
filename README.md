@@ -4,13 +4,8 @@
 
 <p align="center">
   <a href="https://github.com/huamo555/DOGraspNet"><img src="https://img.shields.io/badge/Project-DOGraspNet-2f80ed.svg" alt="project"></a>
-  <a href="https://github.com/huamo555/DOGraspNet"><img src="https://img.shields.io/badge/Project-DOGraspNet-2f80ed.svg" alt="Project"></a>
   <img src="https://img.shields.io/badge/IROS-2026-ff6f00.svg" alt="IROS 2026">
-  <img src="https://img.shields.io/badge/Python-99%25-3776ab.svg" alt="Python">
   <img src="https://img.shields.io/badge/Task-6--DoF%20Grasp%20Pose%20Estimation-8a2be2.svg" alt="task">
-  <a href="LICENSE"><img src="https://img.shields.io/badge/License-See%20LICENSE-green.svg" alt="license"></a>
-  <img src="https://img.shields.io/badge/Python-99.2%25-3776ab.svg" alt="Python">
-  <img src="https://img.shields.io/badge/Task-6--DoF%20Grasp%20Pose%20Estimation-8a2be2.svg" alt="Task">
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-See%20LICENSE-green.svg" alt="License"></a>
 </p>
 
