@@ -1,5 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:1f77b4,100:7c3aed alt="DOGraspNet banner">
+ <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:1f77b4,100:7c3aed&text=DOGraspNet" alt="DOGraspNet banner">
 </p>
 
 <h3 align="center">
