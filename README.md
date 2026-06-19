@@ -76,8 +76,6 @@ The overall pipeline contains:
 
 ### Framework
 
-Place the framework figure at `doc/framework.png`; GitHub will render it below.
-
 <p align="center">
   <img src="doc/framework.png" width="90%" alt="DOGraspNet framework">
 </p>
