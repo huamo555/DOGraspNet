@@ -116,19 +116,6 @@ Then update the dataset root path in the corresponding scripts or configuration 
 ```bash
 bash command_train_re.sh
 ```
-
-For the KNN version:
-
-```bash
-bash command_train_kn.sh
-```
-
-You can also launch training directly:
-
-```bash
-python train.py
-```
-
 Before training, please confirm that:
 
 - The dataset path has been configured correctly.
@@ -142,33 +129,10 @@ Before training, please confirm that:
 bash command_test_re.sh
 ```
 
-For the KNN version:
-
-```bash
-bash command_test_kn.sh
-```
-
-With collision checking:
-
 ```bash
 bash command_test_re_pengzhuangjiance.sh
 bash command_test_kn_pengzhuangjiance.sh
 ```
-
-### Evaluation
-
-```bash
-python get_AP_and_APu.py
-```
-
-### Visualization
-
-```bash
-python infer_vis_grasp.py
-python infer_vis_grasp_singleObject.py
-python infer_vis_grasp_wupeng.py
-```
-
 ## Results
 
 Final benchmark numbers will be updated after paper release.
