@@ -80,39 +80,6 @@ The overall pipeline contains:
   <img src="doc/framework.png" width="90%" alt="DOGraspNet framework">
 </p>
 
-## Repository Structure
-
-```text
-DOGraspNet/
-|-- dataset/                         # Dataset loading and preprocessing
-|-- doc/                             # Figures, documents, and supplementary assets
-|-- graspnetAPI/                     # GraspNet evaluation utilities
-|-- knn/                             # KNN CUDA/C++ extensions
-|-- pointnet2/                       # PointNet++ operators and modules
-|-- SE_resUnet.py                    # SE-ResUNet module
-|-- backbone_resunet14.py            # Backbone network
-|-- collision_detector.py            # Collision checking
-|-- data_utils.py                    # Data processing utilities
-|-- get_AP_and_APu.py                # AP / APu metric computation
-|-- graspnet.py                      # Main network definition
-|-- infer_vis_grasp.py               # Inference and visualization
-|-- infer_vis_grasp_singleObject.py  # Single-object visualization
-|-- infer_vis_grasp_wupeng.py        # Additional visualization script
-|-- label_generation.py              # Label generation
-|-- loss.py                          # Training losses
-|-- loss_utils.py                    # Loss utilities
-|-- modules.py                       # Core network modules
-|-- train.py                         # Training entry point
-|-- test.py                          # Testing entry point
-|-- command_train_re.sh              # Training script
-|-- command_train_kn.sh              # KNN training script
-|-- command_test_re.sh               # Testing script
-|-- command_test_kn.sh               # KNN testing script
-|-- command_test_re_pengzhuangjiance.sh
-|-- command_test_kn_pengzhuangjiance.sh
-`-- requirements.txt
-```
-
 ## Installation
 
 ### 1. Clone
