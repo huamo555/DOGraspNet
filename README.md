@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:1f77b4,100:7c3aed&text=DOGraspNet&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Offset-Driven%20Local%20Feature%20Aggregation%20for%206-DoF%20Grasp%20Pose%20Estimation&descAlignY=62&descSize=16" alt="DOGraspNet banner">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:1f77b4,100:7c3aed alt="DOGraspNet banner">
 </p>
 
 <h3 align="center">
