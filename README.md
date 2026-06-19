@@ -1,5 +1,3 @@
-# DOGraspNet
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:1f77b4,100:7c3aed&text=DOGraspNet&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Offset-Driven%20Local%20Feature%20Aggregation%20for%206-DoF%20Grasp%20Pose%20Estimation&descAlignY=62&descSize=16" alt="DOGraspNet banner">
 </p>
@@ -137,8 +135,8 @@ Final benchmark numbers will be updated after paper release.
 
 ### GraspNet-1Billion
 
-| Method | Seen AP | Similar AP | Novel AP|
-| --- | ---: | ---: | ---: | ---: |
+| Method | Seen AP | Similar AP | Novel AP |
+| --- | ---: | ---: | ---: |
 | Baseline | 67.89 / 59.26 | 59.88 / 49.47 | 25.29 / 18.34 |
 | DOGraspNet | 74.13 / 63.79 | 65.10 / 54.11 | 29.40 / 21.93 |
 
