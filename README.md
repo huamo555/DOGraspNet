@@ -1,4 +1,3 @@
-DOGraspNet
 <p align="center">
   <b>A Multi-Modal Framework with Offset-Driven Local Feature Aggregation for 6-DoF Grasp Pose Estimation</b>
 </p>
