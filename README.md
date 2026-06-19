@@ -54,13 +54,6 @@ This repository provides the full research codebase for training, testing, visua
 - **6-DoF grasp prediction** in cluttered scenes, targeting practical robotic manipulation.
 - **Complete experimental pipeline** including training, testing, collision-aware evaluation, AP/APu computation, and grasp visualization.
 - **GraspNet-compatible workflow** for benchmark evaluation and comparison with existing methods.
-- **Offset-driven local feature aggregation** for stronger local geometric perception.
-- **Multi-modal feature learning** for robust grasp pose estimation in cluttered scenes.
-- **6-DoF grasp prediction** compatible with GraspNet-style benchmark evaluation.
-- **Collision-aware testing scripts** for more practical grasp quality assessment.
-- **Visualization tools** for qualitative inspection of predicted grasp poses.
-- **End-to-end experimental pipeline** including training, inference, evaluation, and metric computation.
-
 ## Method Overview
 ## Framework
 
