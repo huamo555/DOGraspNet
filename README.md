@@ -112,9 +112,13 @@ Then update the dataset root path in the corresponding scripts or configuration 
 ## Quick Start
 
 ### Training
-
+Realsense camera 
 ```bash
 bash command_train_re.sh
+```
+Kinect camera 
+```bash
+bash command_train_kn.sh
 ```
 Before training, please confirm that:
 
@@ -124,14 +128,13 @@ Before training, please confirm that:
 - The checkpoint and log directories exist.
 
 ### Testing
-
+Realsense camera 
 ```bash
 bash command_test_re.sh
 ```
-
+Kinect camera 
 ```bash
-bash command_test_re_pengzhuangjiance.sh
-bash command_test_kn_pengzhuangjiance.sh
+bash command_test_kn.sh
 ```
 ## Results
 
