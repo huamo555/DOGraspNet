@@ -122,11 +122,6 @@ bash command_train_kn.sh
 ```
 Before training, please confirm that:
 
-- The dataset path has been configured correctly.
-- `pointnet2/` and `knn/` have been compiled successfully.
-- The batch size matches your GPU memory.
-- The checkpoint and log directories exist.
-
 ### Testing
 Realsense camera 
 ```bash
