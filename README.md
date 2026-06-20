@@ -33,7 +33,6 @@
 
 - **2026-06**: DOGraspNet was accepted to **IROS 2026**.
 - **2026-06**: The official project repository was released.
-- **Coming soon**: Paper link, pretrained checkpoints, detailed data preparation guide, and final benchmark tables.
 
 ## Overview
 
