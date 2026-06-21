@@ -137,11 +137,12 @@ Final benchmark numbers will be updated after paper release.
 | Baseline | 67.89 / 59.26 | 59.88 / 49.47 | 25.29 / 18.34 |
 | DOGraspNet | 74.13 / 63.79 | 65.10 / 54.11 | 29.40 / 21.93 |
 
-## Model Zoo
+## Checkpoints
 
-| Model | Dataset | Metric | Checkpoint |
-| --- | --- | --- | --- |
-| DOGraspNet | GraspNet-1Billion | TBD | Coming soon |
+Download pretrained checkpoints:
+
+- [checkpoints_kn.tar]((https://drive.google.com/file/d/1FAUrlqq6sT00kXccquoFCvatYy9qVWia/view?usp=drive_link))
+- [checkpoints_re.tar](https://drive.google.com/file/d/1ykH4W5KZEG5u-ERXyFqf5PTzXuvhKm3z/view?usp=drive_link)
 
 ## Citation
 
