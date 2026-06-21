@@ -141,7 +141,7 @@ Final benchmark numbers will be updated after paper release.
 
 Download pretrained checkpoints:
 
-- [checkpoints_kn.tar]((https://drive.google.com/file/d/1FAUrlqq6sT00kXccquoFCvatYy9qVWia/view?usp=drive_link))
+- [checkpoints_kn.tar](https://drive.google.com/file/d/1FAUrlqq6sT00kXccquoFCvatYy9qVWia/view?usp=drive_link)
 - [checkpoints_re.tar](https://drive.google.com/file/d/1ykH4W5KZEG5u-ERXyFqf5PTzXuvhKm3z/view?usp=drive_link)
 
 ## Citation
